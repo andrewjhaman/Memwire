@@ -1,0 +1,8 @@
+
+*.lib
+*.exe
+*.pdb
+*.obj
+tags
+main.rdi
+.build/main.exp
